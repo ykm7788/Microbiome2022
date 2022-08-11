@@ -1,0 +1,140 @@
+source	target	p	cov	Disease_outcome	effect	group	group_type	source_type	tense	class
+Achromobacter phage 83-24	Achromobacter xylosoxidans	0	-0.009240852	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.009240852	-1
+Achromobacter phage JWF	Achromobacter xylosoxidans	0.008	-0.004872083	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004872083	-1
+Achromobacter phage phiAxp-2	Achromobacter xylosoxidans	0	0.004814795	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004814795	1
+Achromobacter phage phiAxp-3	Achromobacter xylosoxidans	0	0.008172086	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.008172086	1
+Acinetobacter phage YMC13/03/R2096	Acinetobacter baumannii	0	0.007481912	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.007481912	1
+Aeromonas phage pAh6-C	Aeromonas hydrophila	0.029	-0.009403299	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.009403299	-1
+Arthrobacter phage Brent	Arthrobacter sp.	0	0.004073352	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004073352	1
+Arthrobacter phage Decurro	Arthrobacter sp.	0	-0.012348375	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.012348375	-1
+Arthrobacter phage vB_ArtM-ArV1	Arthrobacter sp.	0.007	-0.009838368	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.009838368	-1
+Bacillus phage CAM003	Bacillus thuringiensis	0	-0.031430837	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.031430837	-1
+Bacillus phage SIOphi	Bacillus subtilis	0	0.025626416	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.025626416	1
+Bdellovibrio phage phi1422	Bdellovibrio bacteriovorus	0.001	0.003550634	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003550634	1
+Brucella phage Pr	Brucella melitensis	0.039	0.000551955	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.000551955	1
+Burkholderia phage JG068	Burkholderia cenocepacia	0	-0.016544704	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.016544704	-1
+Cellulophaga phage phi38:1	Cellulophaga baltica	0	-0.024050625	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.024050625	-1
+Clavibacter phage CN1A	Clavibacter michiganensis	0.004	-0.006190437	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.006190437	-1
+Cronobacter phage CR9	Cronobacter sakazakii	0	-0.008989519	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.008989519	-1
+Cronobacter phage Dev-CD-23823	Cronobacter turicensis	0	-0.006183314	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.006183314	-1
+Cronobacter phage S13	Cronobacter sakazakii	0	0.002766299	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.002766299	1
+Cronobacter phage vB_CsaM_GAP31	Cronobacter sakazakii	0	-0.026930775	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.026930775	-1
+Cronobacter phage vB_CsaM_GAP32	Cronobacter sakazakii	0	-0.018083877	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.018083877	-1
+Cronobacter phage vB_CsaP_Ss1	Cronobacter sakazakii	0	0.008479815	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.008479815	1
+Cyanophage 9515-10a	Prochlorococcus marinus	0.012	-0.005048034	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.005048034	-1
+Cyanophage KBS-S-2A	Synechococcus sp. WH 7803	0.013	-0.024587113	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.024587113	-1
+Cyanophage NATL2A-133	Prochlorococcus marinus	0.004	-0.002303825	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002303825	-1
+Cyanophage P-RSM6	Prochlorococcus marinus	0	-0.002511503	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002511503	-1
+Cyanophage P-TIM40	Prochlorococcus marinus	0	-0.033271647	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.033271647	-1
+Cyanophage S-TIM5	Synechococcus sp. WH 8102	0	-0.008679473	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.008679473	-1
+Delftia phage IME-DE1	Delftia sp. 670	0	0.002514922	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.002514922	1
+Edwardsiella phage MSW-3	Edwardsiella tarda	0	-0.020666752	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.020666752	-1
+Enterobacter phage Enc34	Enterobacter cancerogenus	0	-0.011099639	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.011099639	-1
+Erwinia phage Ea35-70	Erwinia amylovora	0	-0.019725891	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.019725891	-1
+Erwinia phage Ea9-2	Erwinia amylovora	0	-0.011779699	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.011779699	-1
+Erwinia phage phiEa21-4	Erwinia amylovora	0	-0.032856506	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.032856506	-1
+Erwinia phage PhiEaH1	Erwinia amylovora	0	-0.03748724	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.03748724	-1
+Klebsiella phage JD001	Klebsiella pneumoniae	0	-0.006123132	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.006123132	-1
+Lactococcus phage P118	Lactococcus lactis	0	-0.028783376	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.028783376	-1
+Lactococcus phage P162	Lactococcus lactis	0	-0.013267939	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.013267939	-1
+Microbacterium phage vB_MoxS-ISF9	Microbacterium oxydans	0	-0.018405826	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.018405826	-1
+Microcystis phage MaMV-DC	Microcystis aeruginosa	0	-0.014038465	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.014038465	-1
+Mycobacterium phage Chy4	Mycobacterium tuberculosis	0	-0.00278161	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00278161	-1
+Nocardia phage NBR1	Nocardia brasiliensis	0	-0.015793211	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.015793211	-1
+Prochlorococcus phage MED4-213	Prochlorococcus marinus	0	0.00361104	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00361104	1
+Prochlorococcus phage P-HM2	Prochlorococcus marinus	0	-0.001312973	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001312973	-1
+Prochlorococcus phage P-SSM2	Prochlorococcus marinus	0	-0.014617391	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.014617391	-1
+Prochlorococcus phage P-SSM7	Prochlorococcus marinus	0	-0.021493012	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.021493012	-1
+Prochlorococcus phage Syn33	Synechococcus sp. WH 7803	0	-0.006156243	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.006156243	-1
+Proteus phage pPM_01	Proteus mirabilis	0	-0.00672618	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00672618	-1
+Pseudoalteromonas phage H101	Pseudoalteromonas marina	0.01	-0.020394112	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.020394112	-1
+Pseudoalteromonas Phage H103	Pseudoalteromonas marina	0.008	0.007923578	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.007923578	1
+Pseudoalteromonas phage RIO-1	Pseudoalteromonas marina	0	-0.014136589	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.014136589	-1
+Pseudomonas phage 201phi2-1	Pseudomonas chlororaphis	0	0.005314639	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.005314639	1
+Puniceispirillum phage HMO-2011	Candidatus Puniceispirillum marinum	0	0.001966489	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001966489	1
+Rhizobium phage vB_RleS_L338C	Rhizobium leguminosarum	0	-0.001390415	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001390415	-1
+Rhodococcus phage RER2	Rhodococcus erythropolis	0	-0.017113983	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.017113983	-1
+Rhodothermus phage RM378	Rhodothermus marinus	0.003	0.003678458	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003678458	1
+Salmonella phage 37	Salmonella enterica	0	0.002967502	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002967502	1
+Salmonella phage 40	Salmonella enterica	0.029	-0.016544444	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.016544444	-1
+Salmonella phage SKML-39	Salmonella enterica	0	0.003515366	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003515366	1
+Serratia phage PS2	Serratia marcescens	0	0.003710262	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.003710262	1
+Streptomyces phage Izzy	Streptomyces griseus	0	0.00834604	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00834604	1
+Sulfitobacter phage pCB2047-A	Sulfitobacter sp. CB2047	0	-0.027828431	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.027828431	-1
+Sulfitobacter phage pCB2047-C	Sulfitobacter sp. CB2047	0	-0.003334657	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003334657	-1
+Synechococcus phage ACG-2014c	Synechococcus sp. WH 7803	0	-0.031705462	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.031705462	-1
+Synechococcus phage ACG-2014i	Synechococcus sp. WH 7803	0	-0.013371898	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.013371898	-1
+Synechococcus phage ACG-2014j	Synechococcus sp. WH 7803	0	0.001916847	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001916847	1
+Synechococcus phage S-CAM8	Synechococcus sp. WH 7803	0	-0.009305018	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.009305018	-1
+Synechococcus phage S-CBP42	Synechococcus sp. WH 7803	0	-0.010209743	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.010209743	-1
+Synechococcus phage S-PM2	Synechococcus sp. WH 7803	0	-0.027494861	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.027494861	-1
+Synechococcus phage S-RIM2	Synechococcus sp. WH 7803	0	-0.002180284	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002180284	-1
+Synechococcus phage S-RIP2	Synechococcus sp. WH 7803	0.001	-0.000410035	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.000410035	-1
+Synechococcus phage S-RSM4	Synechococcus sp. WH 7803	0.007	-0.024013971	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.024013971	-1
+Synechococcus phage S-ShM2	Synechococcus sp. WH 8102	0	-0.02359288	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.02359288	-1
+Synechococcus phage S-SSM7	Synechococcus sp. WH 8109	0	0.003109249	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003109249	1
+Synechococcus phage Syn19	Synechococcus sp. WH 8109	0	-0.00462819	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00462819	-1
+Vibrio phage helene 12B3	Vibrio splendidus	0	-0.025706151	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.025706151	-1
+Vibrio phage ICP1	Vibrio cholerae	0	0.003612096	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003612096	1
+Vibrio phage ICP2	Vibrio cholerae	0.007	-0.023260276	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.023260276	-1
+Vibrio phage ICP2_2013_A_Haiti	Vibrio cholerae	0	-0.022428824	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.022428824	-1
+Vibrio phage nt-1	Vibrio natriegens	0	-0.020753907	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.020753907	-1
+Vibrio phage phi-A318	Vibrio alginolyticus	0.027	0.011547513	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.011547513	1
+Vibrio phage qdvp001	Vibrio parahaemolyticus	0.022	0.005603653	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.005603653	1
+Vibrio phage SSP002	Vibrio vulnificus	0	-0.005023314	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.005023314	-1
+Vibrio phage vB_VchM-138	Vibrio alginolyticus	0	-0.011703705	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.011703705	-1
+Vibrio phage vB_VpaS_MAR10	Vibrio alginolyticus	0	-0.007914728	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.007914728	-1
+Vibrio phage VPp1	Vibrio parahaemolyticus	0	-0.003433205	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003433205	-1
+Xylella phage Salvo	Xylella fastidiosa	0	-0.023630694	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.023630694	-1
+Xylella phage Sano	Xylella fastidiosa	0	0.004729703	Healthy	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.004729703	1
+Yersinia phage vB_YenP_AP5	Yersinia enterocolitica	0	-0.008807802	Healthy	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.008807802	-1
+Achromobacter xylosoxidans	RS	0	-0.007785514	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.007785514	-1
+Acinetobacter baumannii	RS	0	-0.015103128	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.015103128	-1
+Aeromonas hydrophila	RS	0.027	-0.024087105	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.024087105	-1
+Arthrobacter sp.	RS	0	-0.005360317	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.005360317	-1
+Bacillus subtilis	RS	0	-0.007526281	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.007526281	-1
+Bacillus thuringiensis	RS	0	-0.037658214	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.037658214	-1
+Bdellovibrio bacteriovorus	RS	0.001	-0.031802355	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.031802355	-1
+Brucella melitensis	RS	0	-0.02298818	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.02298818	-1
+Burkholderia cenocepacia	RS	0	-0.006709911	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.006709911	-1
+Candidatus Puniceispirillum marinum	RS	0	-0.008060023	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.008060023	-1
+Cellulophaga baltica	RS	0	-0.013612801	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.013612801	-1
+Clavibacter michiganensis	RS	0	0.00233216	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.00233216	1
+Cronobacter sakazakii	RS	0	0.019145825	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.019145825	1
+Cronobacter turicensis	RS	0	0.008424878	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.008424878	1
+Delftia sp. 670	RS	0	0.009716285	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.009716285	1
+Edwardsiella tarda	RS	0.011	-0.008859769	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.008859769	-1
+Enterobacter cancerogenus	RS	0.033	-0.024086208	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.024086208	-1
+Erwinia amylovora	RS	0	-0.01634055	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.01634055	-1
+Klebsiella pneumoniae	RS	0	0.001613466	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.001613466	1
+Lactococcus lactis	RS	0	-0.036719961	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.036719961	-1
+Microbacterium oxydans	RS	0	-0.00560682	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.00560682	-1
+Microcystis aeruginosa	RS	0	0.009968688	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.009968688	1
+Mycobacterium tuberculosis	RS	0	-0.026187447	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.026187447	-1
+Nocardia brasiliensis	RS	0	-0.007379854	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.007379854	-1
+Prochlorococcus marinus	RS	0	-0.022982526	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.022982526	-1
+Proteus mirabilis	RS	0	-0.012251208	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.012251208	-1
+Pseudoalteromonas marina	RS	0	-0.003622389	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.003622389	-1
+Pseudomonas chlororaphis	RS	0	-0.022942431	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.022942431	-1
+Rhizobium leguminosarum	RS	0	-0.030678375	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.030678375	-1
+Rhodococcus erythropolis	RS	0.021	-0.007917345	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.007917345	-1
+Rhodothermus marinus	RS	0	-0.009348322	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.009348322	-1
+Salmonella enterica	RS	0	-0.00887736	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.00887736	-1
+Serratia marcescens	RS	0	0.004977165	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.004977165	1
+Streptomyces griseus	RS	0	-0.010290591	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.010290591	-1
+Sulfitobacter sp. CB2047	RS	0	-0.02126835	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.02126835	-1
+Synechococcus sp. WH 7803	RS	0	-0.007386346	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.007386346	-1
+Synechococcus sp. WH 8102	RS	0	-0.035496045	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.035496045	-1
+Synechococcus sp. WH 8109	RS	0.001	-0.003308996	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.003308996	-1
+Vibrio alginolyticus	RS	0	-0.000221564	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.000221564	-1
+Vibrio cholerae	RS	0	-0.008358114	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.008358114	-1
+Vibrio natriegens	RS	0.002	0.021776177	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.021776177	1
+Vibrio parahaemolyticus	RS	0	-0.010554563	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.010554563	-1
+Vibrio splendidus	RS	0	-0.000447066	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.000447066	-1
+Vibrio vulnificus	RS	0	0.007487057	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.007487057	1
+Xylella fastidiosa	RS	0	0.000653186	Healthy	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.000653186	1
+Yersinia enterocolitica	RS	0	-0.011256788	Healthy	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.011256788	-1
+Ralstonia phage P4282	RS	0	-0.005991469	Healthy	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.005991469	-1
+Ralstonia phage RSF1	RS	0	-0.002064077	Healthy	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.002064077	-1
+Ralstonia phage RSL1	RS	0.006	-0.002593325	Healthy	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.002593325	-1
+Ralstonia phage RSL2	RS	0.002	0.000722014	Healthy	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.000722014	1

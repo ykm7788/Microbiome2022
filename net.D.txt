@@ -1,0 +1,138 @@
+source	target	p	cov	Disease_outcome	effect	group	group_type	source_type	tense	class
+Achromobacter phage 83-24	Achromobacter xylosoxidans	0	-0.009456457	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.009456457	-1
+Achromobacter phage JWF	Achromobacter xylosoxidans	0	-0.004790443	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004790443	-1
+Achromobacter phage phiAxp-3	Achromobacter xylosoxidans	0	-0.003172915	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003172915	-1
+Aeromonas phage Aes508	Aeromonas salmonicida	0.024	-0.012326796	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.012326796	-1
+Aeromonas phage pAh6-C	Aeromonas hydrophila	0.002	-0.039602338	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.039602338	-1
+Arthrobacter phage Brent	Arthrobacter sp.	0	-0.003091249	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003091249	-1
+Arthrobacter phage Decurro	Arthrobacter sp.	0	-0.009931856	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.009931856	-1
+Arthrobacter phage vB_ArtM-ArV1	Arthrobacter sp.	0	-0.007037879	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.007037879	-1
+Bacillus phage BigBertha	Bacillus thuringiensis	0	-0.017166355	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.017166355	-1
+Bacillus phage Hoody T	Bacillus thuringiensis	0	-0.00121428	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00121428	-1
+Bdellovibrio phage phi1422	Bdellovibrio bacteriovorus	0.016	-0.012534468	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.012534468	-1
+Brucella phage Tb	Brucella abortus	0	0.001137592	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001137592	1
+Burkholderia phage BcepB1A	Burkholderia cepacia	0	0.00291192	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00291192	1
+Burkholderia phage BcepGomr	Burkholderia cepacia	0	-0.006244666	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.006244666	-1
+Burkholderia phage BcepNazgul	Burkholderia cepacia	0	0.009721913	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.009721913	1
+Burkholderia phage JG068	Burkholderia cenocepacia	0	0.002466599	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002466599	1
+Caulobacter phage Cd1	Caulobacter vibrioides	0	-0.003158329	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003158329	-1
+Caulobacter phage Cr30	Caulobacter vibrioides	0	0.002752252	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002752252	1
+Celeribacter phage P12053L	Celeribacter marinus	0	-0.004807588	Diseased	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.004807588	-1
+Cronobacter phage CR8	Cronobacter sakazakii	0	-0.008807651	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.008807651	-1
+Cronobacter phage CR9	Cronobacter sakazakii	0.003	-0.019719747	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.019719747	-1
+Cronobacter phage Dev-CD-23823	Cronobacter turicensis	0	-0.023652451	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.023652451	-1
+Cronobacter phage S13	Cronobacter sakazakii	0.047	-0.021163863	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.021163863	-1
+Cronobacter phage vB_CsaM_GAP161	Cronobacter sakazakii	0	0.006558869	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.006558869	1
+Cronobacter phage vB_CsaM_GAP31	Cronobacter sakazakii	0.025	-0.002143906	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002143906	-1
+Cronobacter phage vB_CsaM_GAP32	Cronobacter sakazakii	0	-0.000752786	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.000752786	-1
+Cronobacter phage vB_CsaP_Ss1	Cronobacter sakazakii	0	-0.002205851	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002205851	-1
+Cyanophage 9515-10a	Prochlorococcus marinus	0	-0.013529647	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.013529647	-1
+Cyanophage KBS-S-2A	Synechococcus sp. WH 7803	0	-0.009762357	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.009762357	-1
+Cyanophage NATL2A-133	Prochlorococcus marinus	0	-0.013968444	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.013968444	-1
+Cyanophage S-TIM5	Synechococcus sp. WH 8102	0	-0.013221997	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.013221997	-1
+Delftia phage IME-DE1	Delftia sp. 670	0	-0.011949423	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.011949423	-1
+Edwardsiella phage MSW-3	Edwardsiella tarda	0.003	-0.034137259	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.034137259	-1
+Enterobacter phage Enc34	Enterobacter cancerogenus	0	-0.000302071	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.000302071	-1
+Enterococcus phage ECP3	Enterococcus faecalis	0.038	-0.006654733	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.006654733	-1
+Gordonia phage GMA3	Gordonia malaquae	0	-0.010458388	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.010458388	-1
+Gordonia phage GMA6	Gordonia malaquae	0	0.007531447	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.007531447	1
+Gordonia phage GTE7	Gordonia malaquae	0	0.004146004	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004146004	1
+Klebsiella phage JD001	Klebsiella pneumoniae	0	-0.004769755	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004769755	-1
+Klebsiella phage vB_KpnP_IME205	Klebsiella pneumoniae	0	-0.006816448	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.006816448	-1
+Lactococcus phage P118	Lactococcus lactis	0.002	-0.042020416	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.042020416	-1
+Lactococcus phage P162	Lactococcus lactis	0	-0.015749623	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.015749623	-1
+Microbacterium phage vB_MoxS-ISF9	Microbacterium oxydans	0	0.002561013	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002561013	1
+Nocardia phage NBR1	Nocardia brasiliensis	0	-0.000882336	Diseased	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.000882336	-1
+Prochlorococcus phage P-HM2	Prochlorococcus marinus	0	-0.00671104	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00671104	-1
+Prochlorococcus phage P-SSM2	Prochlorococcus marinus	0	-0.02243497	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.02243497	-1
+Prochlorococcus phage P-SSM7	Prochlorococcus marinus	0	-0.014234498	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.014234498	-1
+Prochlorococcus phage Syn33	Synechococcus sp. WH 7803	0	-0.004358248	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004358248	-1
+Pseudoalteromonas phage H101	Pseudoalteromonas marina	0	-0.002424685	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.002424685	-1
+Pseudoalteromonas Phage H103	Pseudoalteromonas marina	0	0.000880552	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.000880552	1
+Pseudoalteromonas phage RIO-1	Pseudoalteromonas marina	0	-0.020966034	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.020966034	-1
+Pseudomonas phage UFV-P2	Pseudomonas fluorescens	0	-0.001222091	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001222091	-1
+Rhizobium phage vB_RglS_P106B	Rhizobium gallicum	0	-0.016775219	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.016775219	-1
+Rhodobacter phage RcTitan	Rhodobacter capsulatus	0	-0.01193327	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.01193327	-1
+Rhodothermus phage RM378	Rhodothermus marinus	0	-0.004701725	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004701725	-1
+Salmonella phage 37	Salmonella enterica	0	-0.019674003	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.019674003	-1
+Salmonella phage 40	Salmonella enterica	0	0.010765621	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.010765621	1
+Salmonella phage SKML-39	Salmonella enterica	0	-0.01637544	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.01637544	-1
+Sinorhizobium phage phiN3	Sinorhizobium meliloti	0	-0.01105379	Diseased	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.01105379	-1
+Stenotrophomonas phage IME-SM1	Stenotrophomonas maltophilia	0.001	0.001284398	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001284398	1
+Streptomyces phage Izzy	Streptomyces griseus	0	-0.010170698	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.010170698	-1
+Streptomyces phage Jay2Jay	Streptomyces lividans	0	-0.006088275	Diseased	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.006088275	-1
+Streptomyces phage phiSAJS1	Streptomyces avermitilis	0	0.006544085	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.006544085	1
+Sulfitobacter phage pCB2047-C	Sulfitobacter sp. CB2047	0	-0.039595582	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.039595582	-1
+Synechococcus phage ACG-2014b	Synechococcus sp. WH 7803	0.026	-0.022436155	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.022436155	-1
+Synechococcus phage ACG-2014c	Synechococcus sp. WH 7803	0.01	0.022682356	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.022682356	1
+Synechococcus phage ACG-2014f	Synechococcus sp. WH 7803	0.038	-0.004886933	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004886933	-1
+Synechococcus phage ACG-2014i	Synechococcus sp. WH 7803	0	-0.018048819	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.018048819	-1
+Synechococcus phage ACG-2014j	Synechococcus sp. WH 7803	0.022	-0.011270653	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.011270653	-1
+Synechococcus phage S-CAM8	Synechococcus sp. WH 7803	0	-0.003445332	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.003445332	-1
+Synechococcus phage S-CBP42	Synechococcus sp. WH 7803	0.002	-0.00664524	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.00664524	-1
+Synechococcus phage S-PM2	Synechococcus sp. WH 7803	0	0.015373352	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.015373352	1
+Synechococcus phage S-RIM2	Synechococcus sp. WH 7803	0	-0.008086502	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.008086502	-1
+Synechococcus phage S-ShM2	Synechococcus sp. WH 8102	0	-0.004052184	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004052184	-1
+Synechococcus phage S-SKS1	Synechococcus sp. WH 7803	0	0.004227372	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.004227372	1
+Synechococcus phage S-SSM7	Synechococcus sp. WH 8109	0	-0.024376997	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.024376997	-1
+Synechococcus phage Syn19	Synechococcus sp. WH 8109	0	-0.014058551	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.014058551	-1
+Vibrio phage CP-T1	Vibrio cholerae	0	-0.02495284	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.02495284	-1
+Vibrio phage ICP2	Vibrio cholerae	0	-0.001039653	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001039653	-1
+Vibrio phage phi-A318	Vibrio alginolyticus	0	-0.022518412	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.022518412	-1
+Vibrio phage qdvp001	Vibrio parahaemolyticus	0	-0.015223078	Diseased	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.015223078	-1
+Vibrio phage vB_VchM-138	Vibrio alginolyticus	0	0.010063289	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.010063289	1
+Vibrio phage VpKK5	Vibrio parahaemolyticus	0	-0.015376589	Diseased	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.015376589	-1
+Vibrio phage VPp1	Vibrio parahaemolyticus	0	-0.002614763	Diseased	Secondary-phage-effect	facilitator_associated_phage	1	phage	0.002614763	-1
+Xanthomonas phage phiL7	Xanthomonas campestris	0	-0.014313485	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.014313485	-1
+Xanthomonas phage Xp15	Xanthomonas campestris	0	-0.008172825	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.008172825	-1
+Yersinia phage vB_YenM_TG1	Yersinia enterocolitica	0.021	-0.001112722	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.001112722	-1
+Yersinia phage vB_YenP_AP5	Yersinia enterocolitica	0	-0.011348342	Diseased	Secondary-phage-effect	inhibitor_associated_phage	-1	phage	0.011348342	-1
+Achromobacter xylosoxidans	RS	0	-0.026751217	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.026751217	-1
+Aeromonas hydrophila	RS	0	-0.015143288	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.015143288	-1
+Aeromonas salmonicida	RS	0	-0.055563413	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.055563413	-1
+Arthrobacter sp.	RS	0	-0.002139724	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.002139724	-1
+Bacillus thuringiensis	RS	0	-0.007308229	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.007308229	-1
+Bdellovibrio bacteriovorus	RS	0.042	-0.003199732	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.003199732	-1
+Brucella abortus	RS	0	-0.010481726	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.010481726	-1
+Burkholderia cenocepacia	RS	0	-0.023507894	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.023507894	-1
+Burkholderia cepacia	RS	0	-0.018701189	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.018701189	-1
+Caulobacter vibrioides	RS	0	-0.003211987	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.003211987	-1
+Celeribacter marinus	RS	0	0.003820301	Diseased	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.003820301	1
+Cronobacter sakazakii	RS	0	-0.017157566	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.017157566	-1
+Cronobacter turicensis	RS	0	-0.010075346	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.010075346	-1
+Delftia sp. 670	RS	0	-0.01990747	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.01990747	-1
+Edwardsiella tarda	RS	0	-0.017408509	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.017408509	-1
+Enterobacter cancerogenus	RS	0.001	-0.032886791	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.032886791	-1
+Enterococcus faecalis	RS	0	-0.021831426	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.021831426	-1
+Gordonia malaquae	RS	0	-0.014629349	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.014629349	-1
+Klebsiella pneumoniae	RS	0.001	-0.011046814	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.011046814	-1
+Lactococcus lactis	RS	0	-0.036570882	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.036570882	-1
+Microbacterium oxydans	RS	0	-0.030677196	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.030677196	-1
+Nocardia brasiliensis	RS	0	0.011345561	Diseased	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.011345561	1
+Prochlorococcus marinus	RS	0	-0.003048731	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.003048731	-1
+Pseudoalteromonas marina	RS	0.046	-0.008410991	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.008410991	-1
+Pseudomonas fluorescens	RS	0	-0.008032884	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.008032884	-1
+Rhizobium gallicum	RS	0	-0.00834679	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.00834679	-1
+Rhodobacter capsulatus	RS	0	-0.011026056	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.011026056	-1
+Rhodothermus marinus	RS	0.001	-0.013278277	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.013278277	-1
+Salmonella enterica	RS	0	-0.033942001	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.033942001	-1
+Sinorhizobium meliloti	RS	0	0.002701105	Diseased	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.002701105	1
+Stenotrophomonas maltophilia	RS	0.02	-0.014779391	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.014779391	-1
+Streptomyces avermitilis	RS	0	-0.001217991	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.001217991	-1
+Streptomyces griseus	RS	0	-0.039293345	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.039293345	-1
+Streptomyces lividans	RS	0	0.004363973	Diseased	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.004363973	1
+Sulfitobacter sp. CB2047	RS	0	-0.002029393	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.002029393	-1
+Synechococcus sp. WH 7803	RS	0	-0.0141125	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.0141125	-1
+Synechococcus sp. WH 8102	RS	0	-0.014715236	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.014715236	-1
+Synechococcus sp. WH 8109	RS	0	-0.010655022	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.010655022	-1
+Vibrio alginolyticus	RS	0	-0.015346452	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.015346452	-1
+Vibrio cholerae	RS	0	-0.00050306	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.00050306	-1
+Vibrio parahaemolyticus	RS	0.014	0.005267557	Diseased	Primary-bacterial-effect	facilitator_bacteria	1	bacteria	0.005267557	1
+Xanthomonas campestris	RS	0	-0.030420868	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.030420868	-1
+Yersinia enterocolitica	RS	0	-0.021899505	Diseased	Primary-bacterial-effect	inhibitor_bacteria	-1	bacteria	0.021899505	-1
+Ralstonia phage P4282	RS	0	0.001254996	Diseased	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.001254996	1
+Ralstonia phage RS138	RS	0	-0.001192324	Diseased	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.001192324	-1
+Ralstonia phage RSF1	RS	0.002	-0.007678291	Diseased	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.007678291	-1
+Ralstonia phage RSJ5	RS	0	-0.014717845	Diseased	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.014717845	-1
+Ralstonia phage RSL1	RS	0.017	0.000221216	Diseased	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.000221216	1
+Ralstonia phage RSL2	RS	0.001	0.002750093	Diseased	Primary-phage-effect	pathogen_specific_phage	-1	phage	0.002750093	1
